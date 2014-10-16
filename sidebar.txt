@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[awo:home|Door43 (awo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-awo|d43-awo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-awo/archive/master.zip|d43-awo.zip]]
+
+**Recent Changes**
+{{changes>ns = awo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/awo|Ethnologue data]]
+
